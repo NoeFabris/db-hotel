@@ -1,0 +1,23 @@
+Group By
+1) 
+SELECT COUNT(`id`) FROM `ospiti`
+GROUP BY `date_of_birth`
+
+2)
+SELECT SUM(`price`) FROM `pagamenti`
+GROUP BY `status`
+
+3)
+SELECT COUNT(`id`) FROM `prenotazioni`
+GROUP BY `stanza_id`
+
+4)
+
+
+
+5)
+
+
+
+Join
+1)
